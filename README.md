@@ -36,3 +36,11 @@ Projects where I explore and practise building with AI.
 [Download for Mac](https://github.com/zenwyn-naicker/zenote/releases/latest/download/Zenote.dmg)
 
 <br clear="left">
+
+<a href="https://github.com/zenwyn-naicker/zendish"><img src="assets/projects/zendish.svg" alt="Zendish: Swift, SwiftUI, Vision, Ollama" width="48%" align="left"></a>
+
+**[Zendish](https://github.com/zenwyn-naicker/zendish)** turns recipe screenshots into a cookbook on your Mac. You check each card beside the original before saving it, and everything runs locally through Ollama, so your recipes stay private.
+
+[Download for Mac](https://github.com/zenwyn-naicker/zendish/releases/latest/download/Zendish.dmg)
+
+<br clear="left">
