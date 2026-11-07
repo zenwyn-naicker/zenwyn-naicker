@@ -36,6 +36,7 @@ Projects where I explore and practise building with AI.
 [Download for Mac](https://github.com/zenwyn-naicker/zenote/releases/latest/download/Zenote.dmg)
 
 <br clear="left">
+<br>
 
 <a href="https://github.com/zenwyn-naicker/zendish"><img src="assets/projects/zendish.svg" alt="Zendish: Swift, SwiftUI, Vision, Ollama" width="48%" align="left"></a>
 
